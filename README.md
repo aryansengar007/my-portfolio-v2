@@ -1,5 +1,5 @@
 
-# 💼 My Portfolio V2
+# 🌐 Personal Portfolio Website (v2)
 
 A modern, responsive personal portfolio website built using HTML, CSS, and JavaScript. This project showcases my skills, projects, certifications, and experience — all in a clean, interactive, and professional format.
 
