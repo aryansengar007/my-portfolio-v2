@@ -1,15 +1,15 @@
 
 # 🌐 Personal Portfolio Website (v2)
 
-A modern, responsive personal portfolio website built using HTML, CSS, and JavaScript. This project showcases my skills, projects, certifications, and experience — all in a clean, interactive, and professional format.
+A modern, responsive personal portfolio website built using HTML, CSS, and JavaScript. This project showcases my skills, courses, projects, certifications, experience and education — all in a clean, interactive, and professional format.
 
-![Portfolio Screenshot](assets/images/projects/personal_portfolio_v1.png)
+[![Dashboard Screenshot](assets_readme/hero.png)](assets/hero.png)
 
 ---
 
 ## 🔗 Live Demo
 
-> 🚀 [Coming Soon – Deployed via Netlify or GitHub Pages]
+[https://aryan-sengar-portfolio-v2.netlify.app/](https://aryan-sengar-portfolio-v2.netlify.app/)
 
 ---
 
@@ -55,15 +55,6 @@ my-portfolio-v2/
 
 ---
 
-## 📷 Screenshots
-
-| Hero Section | Skills Grid |
-|--------------|-------------|
-| ![Hero](assets/images/screenshots/hero.png) | ![Skills](assets/images/screenshots/skills.png) |
-
-> _You can add your own screenshots in `assets/images/screenshots/`._
-
----
 
 ## 🚀 Getting Started
 
@@ -79,7 +70,7 @@ my-portfolio-v2/
 
 ## 📄 Resume & Socials
 
-- 📄 [Download My Resume](https://drive.google.com/file/d/1i7ks3CxxfQ-rCn7pj5uBDtQevKBH9hhr/view)
+- 📄 [Download My Resume](https://drive.google.com/file/d/1i7ks3CxxfQ-rCn7pj5uBDtQevKBH9hhr/view?usp=drive_link)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/aryan-sengar-786b96290/)
 - 💻 [GitHub](https://github.com/aryansengar007)
 - 🔗 [Bio Link](https://bio.link/aryan_sengar007)
@@ -91,15 +82,10 @@ my-portfolio-v2/
 **Aryan Sengar**  
 🎓 B.Tech CSE (AI & ML) @ The NorthCap University  
 🌍 Gurgaon, India  
-📧 aryansengar007@gmail.com
+📧 sengararyan997@gmail.com
 
 ---
 
-## 📃 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## 🙌 Acknowledgements
 
@@ -109,4 +95,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-> 💬 *Feel free to fork, contribute, and drop a ⭐ if you find this helpful!*
+> 💬 *Feel free to drop a ⭐ if you find this helpful!*
