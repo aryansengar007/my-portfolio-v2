@@ -94,5 +94,8 @@ my-portfolio-v2/
 - Background animation from [particles.js](https://vincentgarreau.com/particles.js/)
 
 ---
+© 2025 Aryan Sengar – All Rights Reserved  
+Unauthorized copying is strictly prohibited.
+---
 
 > 💬 *Feel free to drop a ⭐ if you find this helpful!*
