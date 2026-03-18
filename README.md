@@ -26,6 +26,14 @@ A modern, responsive personal portfolio website built using HTML, CSS, and JavaS
 
 ---
 
+## 🎥 Project Demo
+
+This video demonstrates the Personal Portfolio Website (v2) in action — including the animated hero section, smooth scrolling between sections, interactive cards, skill & project showcases, and responsive design across devices.
+
+▶️ [Google Drive Link](https://drive.google.com/file/d/1XpbRJz0jrJsWMrY0fMZiOj4Tc6CddyE0/view?usp=sharing)
+
+---
+
 ## 📁 Project Structure
 
 ```
