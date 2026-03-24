@@ -78,7 +78,7 @@ my-portfolio-v2/
 
 ## 📄 Resume & Socials
 
-- 📄 [Download My Resume](https://drive.google.com/file/d/1i7ks3CxxfQ-rCn7pj5uBDtQevKBH9hhr/view?usp=drive_link)
+- 📄 [Download My Resume](https://drive.google.com/file/d/1umVUp4yA27HEqnmpqU8JTDH30tUrzHUs/view?usp=sharing)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/aryan-sengar-786b96290/)
 - 💻 [GitHub](https://github.com/aryansengar007)
 - 🔗 [Bio Link](https://bio.link/aryan_sengar007)
