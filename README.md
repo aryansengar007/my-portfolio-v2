@@ -1,18 +1,36 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        HERO SECTION                           -->
+<!--                    ANIMATED WAVE HEADER                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-# ✦ Aryan Sengar — Personal Portfolio v2
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Aryan%20Sengar&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Personal%20Portfolio%20v2&descSize=22&descAlignY=58&animation=fadeIn" width="100%"/>
 
-### *A modern, animated, and fully responsive developer portfolio*
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   ANIMATED TYPING TAGLINE                     -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Site-4f46e5?style=for-the-badge&logoColor=white)](https://aryan-sengar-portfolio-v2.netlify.app/)
-[![Resume](https://img.shields.io/badge/📄%20Resume-Download-10b981?style=for-the-badge)](https://drive.google.com/file/d/1vZj_lc41pzM0EAOjB5Hqqdu5jmz5Z91k/view?usp=drive_link)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=false&width=600&lines=Modern+%7C+Responsive+%7C+Animated+Portfolio;Built+with+HTML%2C+CSS+%26+JavaScript;particles.js+%7C+AOS.js+%7C+Vanilla+Tilt.js;Clean+Code+%7C+Clean+Design+%E2%9C%A8" alt="Typing SVG"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       CTA BUTTONS                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Site-6366f1?style=for-the-badge&logoColor=white)](https://aryan-sengar-portfolio-v2.netlify.app/)
+[![Resume](https://img.shields.io/badge/📄%20Resume-Download-10b981?style=for-the-badge)](https://drive.google.com/file/d/1umVUp4yA27HEqnmpqU8JTDH30tUrzHUs/view?usp=sharing)
 [![Demo Video](https://img.shields.io/badge/🎥%20Demo-Watch%20Now-ef4444?style=for-the-badge)](https://drive.google.com/file/d/1XpbRJz0jrJsWMrY0fMZiOj4Tc6CddyE0/view?usp=sharing)
 
 <br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--               ANIMATED SKILL / TECH BADGES                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=3" />
+
+<br/><br/>
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -23,6 +41,11 @@
 </div>
 
 <br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED WAVE DIVIDER                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      PREVIEW SECTION                          -->
@@ -38,7 +61,8 @@
 
 <br/>
 
----
+<!-- WAVE DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     ABOUT THE PROJECT                         -->
@@ -52,7 +76,8 @@ A **modern, fully responsive** personal portfolio website designed to profession
 
 <br/>
 
----
+<!-- WAVE DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                        FEATURES                               -->
@@ -79,7 +104,8 @@ About  ·  Skills  ·  Courses  ·  Projects  ·  Certifications  ·  Experience
 
 <br/>
 
----
+<!-- WAVE DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                       TECH STACK                              -->
@@ -90,6 +116,11 @@ About  ·  Skills  ·  Courses  ·  Projects  ·  Certifications  ·  Experience
 <br/>
 
 <div align="center">
+
+<!-- Animated icon grid -->
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+
+<br/><br/>
 
 | Layer | Technology |
 |:---:|:---|
@@ -106,7 +137,8 @@ About  ·  Skills  ·  Courses  ·  Projects  ·  Certifications  ·  Experience
 
 <br/>
 
----
+<!-- WAVE DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    GETTING STARTED                            -->
@@ -146,7 +178,8 @@ open index.html
 
 <br/>
 
----
+<!-- WAVE DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    PROJECT STRUCTURE                          -->
@@ -170,7 +203,8 @@ my-portfolio-v2/
 
 <br/>
 
----
+<!-- WAVE DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     DEMO VIDEO                                -->
@@ -190,7 +224,31 @@ The demo walkthrough covers the full portfolio experience — animated hero sect
 
 <br/>
 
----
+<!-- WAVE DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--               ANIMATED GITHUB STATS CARDS                     -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aryansengar007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&rank_icon=github" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryansengar007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=6" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryansengar007&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" width="60%"/>
+
+</div>
+
+<br/>
+
+<!-- WAVE DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     CONNECT SECTION                           -->
@@ -215,7 +273,8 @@ The demo walkthrough covers the full portfolio experience — animated hero sect
 
 <br/>
 
----
+<!-- WAVE DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    ACKNOWLEDGEMENTS                           -->
@@ -229,11 +288,11 @@ The demo walkthrough covers the full portfolio experience — animated hero sect
 
 <br/>
 
----
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   ANIMATED WAVE FOOTER                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    FOOTER / LICENSE                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
