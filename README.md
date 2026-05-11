@@ -1,109 +1,246 @@
+<div align="center">
 
-# 🌐 Personal Portfolio Website (v2)
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        HERO SECTION                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-A modern, responsive personal portfolio website built using HTML, CSS, and JavaScript. This project showcases my skills, courses, projects, certifications, experience and education — all in a clean, interactive, and professional format.
+# ✦ Aryan Sengar — Personal Portfolio v2
 
-[![Dashboard Screenshot](assets_readme/hero.png)](assets/hero.png)
+### *A modern, animated, and fully responsive developer portfolio*
+
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Site-4f46e5?style=for-the-badge&logoColor=white)](https://aryan-sengar-portfolio-v2.netlify.app/)
+[![Resume](https://img.shields.io/badge/📄%20Resume-Download-10b981?style=for-the-badge)](https://drive.google.com/file/d/1umVUp4yA27HEqnmpqU8JTDH30tUrzHUs/view?usp=sharing)
+[![Demo Video](https://img.shields.io/badge/🎥%20Demo-Watch%20Now-ef4444?style=for-the-badge)](https://drive.google.com/file/d/1XpbRJz0jrJsWMrY0fMZiOj4Tc6CddyE0/view?usp=sharing)
+
+<br/>
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Netlify](https://img.shields.io/badge/Deployed%20on-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://www.netlify.com/)
+[![Status](https://img.shields.io/badge/Status-Live%20%26%20Active-brightgreen?style=flat-square)](https://aryan-sengar-portfolio-v2.netlify.app/)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      PREVIEW SECTION                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+[![Portfolio Preview](assets_readme/hero.png)](https://aryan-sengar-portfolio-v2.netlify.app/)
+
+*Click the image to visit the live site ↑*
+
+</div>
+
+<br/>
 
 ---
 
-## 🔗 Live Demo
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     ABOUT THE PROJECT                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-[https://aryan-sengar-portfolio-v2.netlify.app/](https://aryan-sengar-portfolio-v2.netlify.app/)
+## 🧭 About The Project
 
----
+A **modern, fully responsive** personal portfolio website designed to professionally showcase skills, projects, certifications, and experience. Built from the ground up with pure **HTML, CSS, and JavaScript** — no frameworks, no bloat — just clean, performant code with polished UI animations and interactions.
 
-## 📌 Features
+> 🎯 Designed for recruiters, collaborators, and anyone curious about my work.
 
-- 🔹 Responsive, mobile-friendly design
-- 🔹 Animated background using **particles.js**
-- 🔹 Scroll animations via **AOS.js**
-- 🔹 Interactive tilt effects on cards and icons
-- 🔹 Preloader and sticky navigation bar
-- 🔹 Sections: About, Skills, Courses, Projects, Certifications, Experience, Education, Contact
-- 🔹 Downloadable resume link
-- 🔹 Clean structure with `index.html`, `style.css`, and `script.js`
+<br/>
 
 ---
 
-## 🎥 Project Demo
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        FEATURES                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-This video demonstrates the Personal Portfolio Website (v2) in action — including the animated hero section, smooth scrolling between sections, interactive cards, skill & project showcases, and responsive design across devices.
+## ✨ Features
 
-▶️ [Google Drive Link](https://drive.google.com/file/d/1XpbRJz0jrJsWMrY0fMZiOj4Tc6CddyE0/view?usp=sharing)
+<br/>
+
+| 🎨 UI & Design | ⚙️ Functionality | 📱 Responsiveness |
+|:---|:---|:---|
+| Animated particle background via **particles.js** | Sticky navigation bar with smooth scrolling | Fully mobile-friendly layout |
+| Scroll-triggered animations via **AOS.js** | Preloader on initial page load | Responsive grid & flex layouts |
+| 3D tilt effects on cards and icons | Downloadable resume button | Optimized for all screen sizes |
+| Clean, modern typography with **Poppins** | Multi-section single-page architecture | Touch-friendly interactive elements |
+
+<br/>
+
+### 📌 Sections Covered
+
+```
+About  ·  Skills  ·  Courses  ·  Projects  ·  Certifications  ·  Experience  ·  Education  ·  Contact
+```
+
+<br/>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       TECH STACK                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🛠️ Tech Stack
+
+<br/>
+
+<div align="center">
+
+| Layer | Technology |
+|:---:|:---|
+| 🏗️ **Structure** | HTML5 — Semantic, accessible markup |
+| 🎨 **Styling** | CSS3 — Custom properties, flexbox, grid, animations |
+| ⚡ **Interactivity** | Vanilla JavaScript — DOM manipulation, events |
+| 🌌 **Background FX** | [particles.js](https://vincentgarreau.com/particles.js/) — Animated particle canvas |
+| 🎞️ **Scroll Animations** | [AOS.js](https://michalsnik.github.io/aos/) — Animate On Scroll library |
+| 🃏 **Tilt Effects** | [Vanilla Tilt.js](https://micku7zu.github.io/vanilla-tilt.js/) — 3D card tilt interactions |
+| 🔤 **Fonts** | [Google Fonts — Poppins](https://fonts.google.com/specimen/Poppins) |
+| 🖼️ **Icons** | [Devicon](https://devicon.dev/) & [Simple Icons](https://simpleicons.org/) SVG icon sets |
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    GETTING STARTED                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+No build tools, no dependencies to install. Just a browser.
+
+### Installation
+
+**1. Clone the repository**
+
+```bash
+git clone https://github.com/aryansengar007/my-portfolio-v2.git
+```
+
+**2. Navigate to the project folder**
+
+```bash
+cd my-portfolio-v2
+```
+
+**3. Launch in your browser**
+
+```bash
+# Option A — Simply open the file:
+open index.html
+
+# Option B — Use VS Code Live Server for hot reload:
+# Right-click index.html → "Open with Live Server"
+```
+
+> ✅ No npm install. No build step. No configuration needed.
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    PROJECT STRUCTURE                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 📁 Project Structure
 
 ```
 my-portfolio-v2/
-├── index.html
-├── assets/
-│   ├── css/
-│   │   └── style.css
-│   ├── js/
-│   │   └── script.js
-│   ├── images/
-│       └── [All project, profile, and icon images]
+│
+├── 📄 index.html                  ← Main HTML entry point
+│
+└── 📂 assets/
+    ├── 📂 css/
+    │   └── style.css              ← All styling, animations & layout
+    ├── 📂 js/
+    │   └── script.js              ← Interactions, AOS init, particles config
+    └── 📂 images/
+        └── [profile, project & icon images]
 ```
 
----
-
-## 🛠️ Tech Stack
-
-- **HTML5**
-- **CSS3**
-- **JavaScript**
-- **AOS (Animate on Scroll)**
-- **particles.js**
-- **Vanilla Tilt.js**
-- **Google Fonts (Poppins)**
-- **Devicon & SVG Icons**
+<br/>
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     DEMO VIDEO                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🚀 Getting Started
+## 🎥 Project Demo
 
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/aryansengar007/my-portfolio-v2.git
-   ```
+<div align="center">
 
-2. **Open the project**  
-   Just open `index.html` in your browser or use Live Server if using VS Code.
+The demo walkthrough covers the full portfolio experience — animated hero section, smooth scrolling, interactive project cards, skill showcases, and responsive behavior across devices.
 
----
+<br/>
 
-## 📄 Resume & Socials
+[![Watch Demo](https://img.shields.io/badge/▶%20Watch%20Full%20Demo-Google%20Drive-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1XpbRJz0jrJsWMrY0fMZiOj4Tc6CddyE0/view?usp=sharing)
 
-- 📄 [Download My Resume](https://drive.google.com/file/d/1umVUp4yA27HEqnmpqU8JTDH30tUrzHUs/view?usp=sharing)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/aryan-sengar-786b96290/)
-- 💻 [GitHub](https://github.com/aryansengar007)
-- 🔗 [Bio Link](https://bio.link/aryan_sengar007)
+</div>
+
+<br/>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     CONNECT SECTION                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 👨‍💻 Author
 
-**Aryan Sengar**  
-🎓 B.Tech CSE (AI & ML) @ The NorthCap University  
-🌍 Gurgaon, India  
-📧 sengararyan997@gmail.com
+<div align="center">
+
+### Aryan Sengar
+
+🎓 **B.Tech CSE (AI & ML)** @ The NorthCap University &nbsp;|&nbsp; 🌍 Gurgaon, India
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-sengar-786b96290/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryansengar007)
+[![Bio Link](https://img.shields.io/badge/Bio%20Link-Visit-f59e0b?style=for-the-badge)](https://bio.link/aryan_sengar007)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sengararyan997@gmail.com)
+
+</div>
+
+<br/>
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ACKNOWLEDGEMENTS                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🙌 Acknowledgements
 
-- Inspired by open-source portfolios on GitHub.
-- Icons & logos from [Devicon](https://devicon.dev/) and [Simple Icons](https://simpleicons.org/)
-- Background animation from [particles.js](https://vincentgarreau.com/particles.js/)
+- 💡 Inspired by the open-source portfolio community on GitHub
+- 🖼️ Icons & logos sourced from [Devicon](https://devicon.dev/) and [Simple Icons](https://simpleicons.org/)
+- 🌌 Background particle animation powered by [particles.js](https://vincentgarreau.com/particles.js/)
+
+<br/>
 
 ---
-© 2025 Aryan Sengar – All Rights Reserved  
-Unauthorized copying is strictly prohibited.
----
 
-> 💬 *Feel free to drop a ⭐ if you find this helpful!*
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    FOOTER / LICENSE                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+© 2025 **Aryan Sengar** — All Rights Reserved. Unauthorized copying is strictly prohibited.
+
+<br/>
+
+*If you found this project helpful or inspiring, consider leaving a* ⭐ *— it means a lot!*
+
+</div>
