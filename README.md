@@ -227,33 +227,6 @@ The demo walkthrough covers the full portfolio experience — animated hero sect
 <!-- WAVE DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--               ANIMATED GITHUB STATS CARDS                     -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aryansengar007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&rank_icon=github" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryansengar007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=6" height="170"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryansengar007&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" width="60%"/>
-
-</div>
-
-<br/>
-
-<!-- WAVE DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     CONNECT SECTION                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 👨‍💻 Author
 
 <div align="center">
