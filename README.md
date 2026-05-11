@@ -19,7 +19,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 [![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Site-6366f1?style=for-the-badge&logoColor=white)](https://aryan-sengar-portfolio-v2.netlify.app/)
-[![Resume](https://img.shields.io/badge/📄%20Resume-Download-10b981?style=for-the-badge)](https://drive.google.com/file/d/1umVUp4yA27HEqnmpqU8JTDH30tUrzHUs/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/📄%20Resume-Download-10b981?style=for-the-badge)](https://drive.google.com/file/d/1vZj_lc41pzM0EAOjB5Hqqdu5jmz5Z91k/view?usp=drive_link)
 [![Demo Video](https://img.shields.io/badge/🎥%20Demo-Watch%20Now-ef4444?style=for-the-badge)](https://drive.google.com/file/d/1XpbRJz0jrJsWMrY0fMZiOj4Tc6CddyE0/view?usp=sharing)
 
 <br/>
