@@ -233,7 +233,7 @@ The demo walkthrough covers the full portfolio experience — animated hero sect
 
 ### Aryan Sengar
 
-🎓 **B.Tech CSE (AI & ML)** @ The NorthCap University &nbsp;|&nbsp; 🌍 Gurgaon, India
+🎓 **B.Tech CSE (AI & ML)** &nbsp;|&nbsp; 🌍 Gurgaon, India
 
 <br/>
 
